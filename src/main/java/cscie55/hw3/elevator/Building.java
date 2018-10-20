@@ -10,5 +10,5 @@ package cscie55.hw3.elevator;
  */
 
 public class Building {
-  
+    System.out.print("sss");
 }
