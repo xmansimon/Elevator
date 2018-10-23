@@ -1,8 +1,11 @@
-package cscie55.hw3.elevator;
+package cscie55.hw3.zoo;
 
+import cscie55.hw3.elevator.*;
 import org.junit.Test;
+
 import java.util.Arrays;
 import java.util.HashSet;
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 

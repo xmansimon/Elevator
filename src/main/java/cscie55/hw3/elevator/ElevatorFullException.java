@@ -11,14 +11,9 @@ package cscie55.hw3.elevator;
  * 
  */
 
-public class ElevatorFullException extends Exception {
 
-    public ElevatorFullException () {
-    }
-
-    public ElevatorFullException (String message) {
+public class ElevatorFullException extends java.lang.Exception {
+    public ElevatorFullException(String message) {
         super(message);
-        System.out.println(message);
     }
-
 }
